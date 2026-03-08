@@ -146,4 +146,17 @@ A full-stack application that generates complete web applications using AI. Buil
 - ✅ Payment integration with Stripe
 - ✅ Object storage (S3-compatible)
 - ✅ Modern Java 21 & Spring Boot 4.0
-- ✅ Production-ready patterns (DTO, Service, Repository) 
+- ✅ Production-ready patterns (DTO, Service, Repository)
+
+### ER Diagram:
+<img src="https://github.com/581-pooja/Lovable_Clone/blob/main/LearningContents/Er_2.png" width="800" style="height:auto;"/>
+
+### System Architecture
+<img src="https://github.com/581-pooja/Lovable_Clone/blob/main/LearningContents/System_Architecture.png?raw=true" width="800" style="height:auto;"/>
+
+### Code Execution Architecture
+<img src="https://github.com/581-pooja/Lovable_Clone/blob/main/LearningContents/code_execution_system_architecture_95ee32b790.png?raw=true" width="800" style="height:auto;"/>
+
+
+
+
