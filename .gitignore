@@ -1,0 +1,41 @@
+@"
+# Maven build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files (IntelliJ IDEA)
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# CRITICAL: Protect secrets
+application.yaml
+application-local.yml
+*.env
+.env.*
+credentials.json
+secrets/
+
+# Logs
+*.log
+logs/
+
+# Node.js (for proxy folder)
+proxy/node_modules/
+proxy/package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
